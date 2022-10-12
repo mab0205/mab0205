@@ -7,8 +7,8 @@
 ## Skills:
 ![C](https://img.shields.io/badge/C-0095D5?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)
 ![C++](https://img.shields.io/badge/C++-0095D5?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)</br>
-![Python](https://img.shields.io/badge/python-54AC58?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)</br>
-![R](https://img.shields.io/badge/R-1CBCD2?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)</br>
+![Python](https://img.shields.io/badge/Python-54AC58?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)</br>
+![R](https://img.shields.io/badge/R-1CBCD2?style=for-the-badge&logo=R&logoColor=white&labelColor=101010)</br>
 ![Prolog](https://img.shields.io/badge/Prolog-F1463F?style=for-the-badge&logo=swi-prolog&logoColor=white&labelColor=101010)</br>
 ## Languages:✨
 - Español
