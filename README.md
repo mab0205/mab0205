@@ -20,7 +20,7 @@
 -  Python 
 -  R
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mab0205)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mab0205)](https://github.com/mab0205/github-readme-stats)
 
 ## Where to find me 👋
 [![Facebook](https://img.shields.io/badge/MartinAvila-44a3f1?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/martin.avila.581187)
