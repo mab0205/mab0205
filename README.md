@@ -19,6 +19,9 @@
 ## I’m currently learning: 🌱 
 -  Python 
 -  R
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mab0205)
+
 ## Where to find me 👋
 [![Facebook](https://img.shields.io/badge/MartinAvila-44a3f1?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/martin.avila.581187)
 [![Instagram](https://img.shields.io/badge/MartinAvila-FF0000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/martin.avila02)
