@@ -29,10 +29,7 @@
 ## I’m currently learning: 🌱 
 -  Python 
 -  R
-<p align="center">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/mab0205?label=Seguidores">&nbsp;&nbsp;
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=mab0205&style=flat&color=yellow">
-</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mab0205)](https://github.com/mab0205/github-readme-stats)
 
 ## Where to find me 👋
