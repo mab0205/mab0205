@@ -9,8 +9,13 @@
 ![C++](https://img.shields.io/badge/C++-0095D5?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)</br>
 ![Python](https://img.shields.io/badge/Python-54AC58?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)</br>
 ![R](https://img.shields.io/badge/R-1CBCD2?style=for-the-badge&logo=R&logoColor=white&labelColor=101010)</br>
-![Prolog](https://img.shields.io/badge/Prolog-F1463F?style=for-the-badge&logo=swi-prolog&logoColor=white&labelColor=101010)</br>
-![SQL](https://img.shields.io/badge/SQL-F1463F?style=for-the-badge&logo=SQL&logoColor=white&labelColor=101010)</br>
+![Linux](	https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)</br>
+![PostgreSQL](	https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)</br>
+![Google_Cloud]( https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)</br>
+![Microsoft_Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)</br>
+## Workspace Specs💻
+![NVIDIA-RTX2070](https://img.shields.io/badge/NVIDIA-RTX2070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)</br>
+
 ## Languages:✨
 - Español
 - Ingles
