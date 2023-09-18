@@ -11,7 +11,7 @@
 ![R](https://img.shields.io/badge/R-1CBCD2?style=for-the-badge&logo=R&logoColor=white&labelColor=101010)</br>
 ![PostgreSQL](	https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&labelColor=101010)</br>
 
-## TI: 
+## TI and Tools : 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&labelColor=101010)</br>
 ![Google_Cloud]( https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&labelColor=101010)</br>
 ![Linux](	https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&labelColor=101010)</br>
@@ -29,7 +29,10 @@
 ## I’m currently learning: 🌱 
 -  Python 
 -  R
-
+<p align="center">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/mab0205?label=Seguidores">&nbsp;&nbsp;
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=mab0205&style=flat&color=yellow">
+</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mab0205)](https://github.com/mab0205/github-readme-stats)
 
 ## Where to find me 👋
