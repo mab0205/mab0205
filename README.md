@@ -10,6 +10,7 @@
 ![Python](https://img.shields.io/badge/Python-54AC58?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)</br>
 ![R](https://img.shields.io/badge/R-1CBCD2?style=for-the-badge&logo=R&logoColor=white&labelColor=101010)</br>
 ![Prolog](https://img.shields.io/badge/Prolog-F1463F?style=for-the-badge&logo=swi-prolog&logoColor=white&labelColor=101010)</br>
+![SQL](https://img.shields.io/badge/SQL-F1463F?style=for-the-badge&logo=SQL&logoColor=white&labelColor=101010)</br>
 ## Languages:✨
 - Español
 - Ingles
