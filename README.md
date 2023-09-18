@@ -32,6 +32,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mab0205)](https://github.com/mab0205/github-readme-stats)
 
+<p align="center">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/mab0205?label=Seguidores">&nbsp;&nbsp;
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=mab0205&style=flat&color=yellow">
+</p>
+
 ## Where to find me 👋
 [![Facebook](https://img.shields.io/badge/MartinAvila-44a3f1?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/martin.avila.581187)
 [![Instagram](https://img.shields.io/badge/MartinAvila-FF0000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/martin.avila02)
