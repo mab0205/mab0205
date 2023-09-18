@@ -11,9 +11,7 @@
 ![R](https://img.shields.io/badge/R-1CBCD2?style=for-the-badge&logo=R&logoColor=white&labelColor=101010)</br>
 ![PostgreSQL](	https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&labelColor=101010)</br>
 
-
-
-## TI
+## TI: 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&labelColor=101010)</br>
 ![Google_Cloud]( https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&labelColor=101010)</br>
 ![Linux](	https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&labelColor=101010)</br>
